@@ -7016,8 +7016,8 @@ i.fa-mobile-alt {
 .flaticon-magnifier {
   position: absolute;
   height: 100%;
-  top: 0;
-  right: 0;
+  top: 6px;
+  right: 6px;
   font-size: 2em; }
 
 .flaticon-magnifier::before {
@@ -8395,7 +8395,7 @@ label[for=check-green]::before, label[for=m-check-green]::before {
 
 @media (max-width: 365px) {
   .item {
-    margin: 0 6px; } }
+    margin: 0 3px; } }
 
 @media (max-width: 360px) {
   .item-name {
