@@ -6967,6 +6967,13 @@ i.fa-mobile-alt {
 .basket-wrapper {
   padding: 0; }
 
+  .main-logo {
+    cursor: pointer; }
+    .main-logo:focus {
+      outline: 0; }
+    .main-logo:visited {
+      outline: 0; }
+
 .bazar-logo {
   width: 114px; }
 
